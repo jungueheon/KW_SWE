@@ -1,2 +1,5 @@
 3/30(Fri)
 Software Engineering Assignment
+
+4/2(Mon)
+Embedded Software Assignment #2
